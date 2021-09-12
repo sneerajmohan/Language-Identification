@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-This project aims to develop a machine learning model that classifies the given passage to the language it's belongs to.
+This project aims to develop a machine learning model that classifies the given passage to the language it belongs to.
 
 ## Data
 
