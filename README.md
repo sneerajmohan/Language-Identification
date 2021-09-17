@@ -22,4 +22,4 @@ We use training data to build vocabulory for count vectorization.
 
 ### Model
 
-Random forest model is used classification
+Random forest model is used for classification. The model is validated using k-fold cross validation.
